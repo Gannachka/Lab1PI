@@ -1,0 +1,17 @@
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Lab_1_client.exe.config
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Lab_1_client.exe
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Lab_1_client.pdb
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Flurl.dll
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Flurl.Http.dll
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Newtonsoft.Json.dll
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Flurl.pdb
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Flurl.xml
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Flurl.Http.pdb
+D:\4_course\PI\Lab_1_client\Lab_1_client\bin\Debug\Newtonsoft.Json.xml
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.csproj.AssemblyReference.cache
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.Properties.Resources.resources
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.csproj.GenerateResource.cache
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.csproj.CoreCompileInputs.cache
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.csproj.CopyComplete
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.exe
+D:\4_course\PI\Lab_1_client\Lab_1_client\obj\Debug\Lab_1_client.pdb
